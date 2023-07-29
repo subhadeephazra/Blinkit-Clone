@@ -10,9 +10,9 @@ HTML, CSS
 
 [Blinkit-Clone](https://subhadeephazra.github.io/Blinkit-Clone)
 
-##Screenshots
-![](src\ss-1.PNG?raw=true "Optional Title")
-![](src\ss-2.PNG?raw=true "Optional Title")
-![](src\ss-3.PNG?raw=true "Optional Title")
-![](src\ss-4.PNG?raw=true "Optional Title")
+## Screenshots
+![Alt text](https://github.com/subhadeephazra/Blinkit-Clone/blob/b331831b776d3008a475d5f40a9e8213e06f9a8a/src/ss-1.PNG)
+![Alt text](https://github.com/subhadeephazra/Blinkit-Clone/blob/b331831b776d3008a475d5f40a9e8213e06f9a8a/src/ss-2.PNG)
+![Alt text](https://github.com/subhadeephazra/Blinkit-Clone/blob/b331831b776d3008a475d5f40a9e8213e06f9a8a/src/ss-3.PNG)
+![Alt text](https://github.com/subhadeephazra/Blinkit-Clone/blob/b331831b776d3008a475d5f40a9e8213e06f9a8a/src/ss-4.PNG)
 
